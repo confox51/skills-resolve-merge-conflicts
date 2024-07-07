@@ -1,3 +1,4 @@
 # References
 
-* octocat 1 😈
+- This should be a bulletted reference
+- Octocat is *NOT* a reference
